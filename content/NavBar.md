@@ -1,4 +1,4 @@
 ---
-brand: "Caitlin & Justin"
+brand: "Shirish & Mimansa"
 menuText: "Menu "
 ---
