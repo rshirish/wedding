@@ -1,1 +1,1 @@
-web: yarn start --host ${HOST?} --port ${PORT?}
+web: yarn start --host shriansa-tales.herokuapp.com
