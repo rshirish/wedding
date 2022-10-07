@@ -1,11 +1,8 @@
 module.exports = {
-  title: "Caitlin & Justin",
-  keywords: [
-    "Caitlin Floyd",
-    "Justin Vazquez"
-  ],
-  description: "Wedding website of Caitlin Floyd and Justin Vazquez",
-  author: "Caitlin Floyd",
+  title: "Shirish & Mimansa",
+  keywords: ["Shirish R", "Mimansa R"],
+  description: "Wedding website of Shirish R and Mimansa R",
+  author: "Shirish",
   trackingId: "UA-119418003-5",
   defaultLang: "en",
 };
