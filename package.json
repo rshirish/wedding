@@ -85,7 +85,7 @@
   "scripts": {
     "clean": "gatsby clean",
     "build": "gatsby build",
-    “heroku-postbuild”: “gatsby build”,
+    "heroku-postbuild": "gatsby build",
     "dev": "gatsby develop",
     "format": "prettier --write src/**/*.{js,jsx}",
     "serve": "gatsby serve",
