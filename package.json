@@ -41,7 +41,8 @@
     "react-notify-toast": "^0.5.1",
     "react-scroll": "^1.7.16",
     "reactjs-popup": "^2.0.4",
-    "throttle-debounce": "^2.1.0"
+    "throttle-debounce": "^2.1.0",
+    "node-gyp": "^9.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
