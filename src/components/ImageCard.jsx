@@ -17,14 +17,14 @@ const ImageCard = ({ className, imageFileName, imageAlt, header, subheader, extr
               <div className="intro-heading">{header}</div>
               <div className="intro-lead-in text-uppercase">{subheader}</div>
               <div className="text-uppercase">
-                <div className="date">
-                  Dec. 13, 2020
-                </div> {/* date */}
+                <div className="date">Nov. 06, 2022</div> {/* date */}
               </div>
-            </div> {/* intro-text-no-button */}
+            </div>{" "}
+            {/* intro-text-no-button */}
             <br />
             {extraInfo}
-          </div> {/* intro-text */}
+          </div>{" "}
+          {/* intro-text */}
         </Container>
       </Card.ImgOverlay>
     </Card>
