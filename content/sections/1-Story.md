@@ -7,7 +7,7 @@ timeline: [
     imageFileName: "story/shiansa.jpg",
     header: "Aug. 7, 2022",
     subheader: "Our first formal meet",
-    content: "We met through an arranged marriage setup. That day, we never thought we would make it this far. But someone has said it right - Marriages are made in heaven, and following God's principles will allow us to experience more of heaven on earth. We know that the love stories of arranged marriages are so underrated. But this moment started a budding love story between to INFJs."
+    content: "We met through an arranged marriage setup. That day, we never thought we would make it this far. But someone has said it right - Marriages are made in heaven, and following God's principles will allow us to experience more of heaven on earth. We know that the love stories of arranged marriages are so underrated. But this moment started a budding love story between two INFJs."
   },
   {
     imageFileName: "story/shiansa.jpg",
