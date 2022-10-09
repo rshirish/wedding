@@ -18,7 +18,7 @@ const Top = ({ frontmatter }) => {
   const extraInfoPart = (
     <div className="buttonsWrapper">
       <a
-        href="https://www.youtube.com/watch?v=EXOL-3JyXMI&t=3660s"
+        href="https://www.youtube.com/watch?v=SCOKysMnH50"
         target="_blank"
         rel="noreferrer"
         className="individButtonWrapper"
@@ -28,7 +28,12 @@ const Top = ({ frontmatter }) => {
         </Button>
       </a>
       <div className="individButtonWrapper">
-        <Button size="xl" variant="primary" className="text-uppercase main-button hero-button" onClick={scrollToSection}>
+        <Button
+          size="xl"
+          variant="primary"
+          className="text-uppercase main-button hero-button"
+          onClick={scrollToSection}
+        >
           <p className="buttonTitle">See the Pictures</p>
         </Button>
       </div>
