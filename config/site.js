@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Shirish & Mimansa",
+  title: "Mimansa & Shirish",
   keywords: ["Shirish R", "Mimansa R"],
   description: "Wedding website of Shirish R and Mimansa R",
   author: "Shirish",

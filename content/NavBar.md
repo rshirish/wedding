@@ -1,4 +1,4 @@
 ---
-brand: "Shirish & Mimansa"
+brand: "Mimansa & Shirish"
 menuText: "Menu "
 ---
