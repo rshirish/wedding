@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-comment-textnodes */
 import React from "react";
 import PropTypes from "prop-types";
 
@@ -12,17 +13,12 @@ const Giving = ({ className, frontmatter }) => {
     return null;
   }
 
-  const {
-    anchor,
-    header: rootHeader,
-    subheader: rootSubHeader,
-    teamMember
-  } = frontmatter;
+  const { anchor, header: rootHeader, subheader: rootSubHeader, teamMember } = frontmatter;
 
   return (
     <div>
       <PageSection className={className} id={anchor}>
-        <Row>
+        {/* <Row>
           <SectionHeader header={rootHeader} subheader={rootSubHeader} />
         </Row>
         <Row className="charities">
@@ -36,9 +32,9 @@ const Giving = ({ className, frontmatter }) => {
               <TeamMember header={header} {...tmProps} />
             </Col>
           ))}
-        </Row>
+        </Row> */}
       </PageSection>
-    </ div>
+    </div>
   );
 };
 

@@ -47,34 +47,35 @@ const Ceremony = ({ className, frontmatter }) => {
           <p>
             Hosted at
             <a
-              href="https://www.strathmore.org/mansion"
+              href="https://weddingz.in/nagpur/kachore-lawns-manish-nagar/"
               className="countdownLinks"
               target="_blank"
               rel="noreferrer"
             >
-              the Mansion at Strathmore
+              Kachore Lawns
             </a>
           </p>
           <p>
-            Officiated by
+            Address
             <a
-              href="https://elleweds.wixsite.com/elleweds"
+              href="https://goo.gl/maps/Hb73Z84ZymLP8STV8"
               className="countdownLinks"
               target="_blank"
               rel="noreferrer"
             >
-              Erren Lee
+              Plot no.1, Beltarodi Road, Opposite Amar Sanjay Housing Society Layout, Manish Nagar,
+              Somalwada, Nagpur, Maharashtra 440025
             </a>
           </p>
           <p>
-            Music provided by
+            Hosted by
             <a
               href="http://cellobosco.com/"
               className="countdownLinks"
               target="_blank"
               rel="noreferrer"
             >
-              Carol Anne Bosco
+              Raut and Family
             </a>
           </p>
           <p>
@@ -128,36 +129,36 @@ const Ceremony = ({ className, frontmatter }) => {
                 <p className="singleVendor">
                   Hosted at
                   <a
-                    href="https://www.strathmore.org/mansion"
+                    href="https://weddingz.in/nagpur/kachore-lawns-manish-nagar/"
                     className="countdownLinks"
                     target="_blank"
                     rel="noreferrer"
                   >
-                    the Mansion at Strathmore
+                    Kachore Lawns
                   </a>
                 </p>{" "}
                 {/* singleVendor */}
                 <p className="singleVendor">
-                  Officiated by
+                  Address
                   <a
-                    href="https://elleweds.wixsite.com/elleweds"
+                    href="https://goo.gl/maps/G6gPQsrGnhGoaVbm6"
                     className="countdownLinks"
                     target="_blank"
                     rel="noreferrer"
                   >
-                    Elle is for Love
+                  Kachore Lawns, Plot no.1, Beltarodi Road, Opposite Amar Sanjay Housing Society Layout, Manish Nagar, Somalwada, Nagpur, Maharashtra 440025
                   </a>
                 </p>{" "}
                 {/* singleVendor */}
                 <p className="singleVendor">
-                  Music provided by
+                  Hosted by
                   <a
                     href="http://cellobosco.com/"
                     className="countdownLinks"
                     target="_blank"
                     rel="noreferrer"
                   >
-                    Carol Anne Bosco
+                    Raut
                   </a>
                   &nbsp;and
                   <a
@@ -166,7 +167,7 @@ const Ceremony = ({ className, frontmatter }) => {
                     target="_blank"
                     rel="noreferrer"
                   >
-                    Nick Montopoli
+                  Family
                   </a>
                 </p>{" "}
                 {/* singleVendor */}
