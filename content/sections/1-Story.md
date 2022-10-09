@@ -26,7 +26,7 @@ PS: We still remember both of us receiving a call from home at the same time. Th
     imageFileName: "story/shiansa.jpg",
     header: "Oct. 9, 2022",
     subheader: "Long-distance budding romance",
-    content: ""
+    content: "When we started chatting, we certainly didn't have any clue what was coming. Getting along with a new person can feel like compromising yourself. But in our case, it was pretty smooth. We felt like we know each other well. Our communication style, fundamental values and family upbringing were surprisingly the same. And in no time, we didn’t realise that we were making memories. We just knew we were having fun."
   },
   {
     imageFileName: "story/shiansa.jpg",
