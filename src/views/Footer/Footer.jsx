@@ -11,10 +11,10 @@ const Footer = ({ frontmatter }) => {
     return null;
   }
 
-  const { 
+  const {
     copyright,
-    social: { facebook, github, linkedin, instagram }
-   } = frontmatter;
+    social: { facebook, github, linkedin, instagram },
+  } = frontmatter;
 
   return (
     <footer className="footer py-3">
@@ -23,36 +23,40 @@ const Footer = ({ frontmatter }) => {
           <Col className="copyright credit">
             <div className="nameAndLink">
               ©&nbsp;
-              <a 
-                href="https://caitlinfloyd.com/"
+              <a
+                href="https://www.linkedin.com/in/shirish-ramtekkar-5b5b5955/"
                 target="_blank"
                 rel="noreferrer"
               >
-                Caitlin Floyd
+                Shirish R
               </a>
               , 2022
             </div>
             <div className="socials">
               {github ? <SocialIcons.Github className="footerSocial" userName={github} /> : null}
-              {linkedin ? <SocialIcons.Linkedin className="footerSocial" userName={linkedin} /> : null}
+              {linkedin ? (
+                <SocialIcons.Linkedin className="footerSocial" userName={linkedin} />
+              ) : null}
             </div>
-          </Col> {/* copyright */}
+          </Col>{" "}
+          {/* copyright */}
           <Col className="anaIsabel credit">
             <div className="nameAndLink">
               Photos by&nbsp;
-              <a 
-                href="https://anaisabelphotography.com/"
-                target="_blank"
-                rel="noreferrer"
-              >
-                Ana Isabel Photography
+              <a href="https://anaisabelphotography.com/" target="_blank" rel="noreferrer">
+                Yet to decide
               </a>
             </div>
             <div className="socials">
-              {instagram ? <SocialIcons.Instagram className="footerSocial" userName={instagram} /> : null}
-              {facebook ? <SocialIcons.Facebook className="footerSocial" userName={facebook} /> : null}
+              {instagram ? (
+                <SocialIcons.Instagram className="footerSocial" userName={instagram} />
+              ) : null}
+              {facebook ? (
+                <SocialIcons.Facebook className="footerSocial" userName={facebook} />
+              ) : null}
             </div>
-          </Col> {/* anaIsabel */}
+          </Col>{" "}
+          {/* anaIsabel */}
         </Row>
       </Container>
     </footer>

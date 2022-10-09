@@ -5,7 +5,7 @@ import { Modal, Button } from "react-bootstrap";
 import Image from "components/Image";
 import Icon from "./Icon";
 
-import "./PhotoDetailDialog.scss"
+import "./PhotoDetailDialog.scss";
 
 const PhotoDetailDialog = ({
   onHide,
@@ -49,18 +49,22 @@ const PhotoDetailDialog = ({
       aria-hidden="true"
     >
       <Modal.Header>
-        <button type="button" className="close" data-dismiss="modal" aria-label="Close" onClick={onHide}>
+        <button
+          type="button"
+          className="close"
+          data-dismiss="modal"
+          aria-label="Close"
+          onClick={onHide}
+        >
           <span aria-hidden="true">x</span>
         </button>
       </Modal.Header>
-      <Modal.Body> {/* className="mx-auto" */}
-        <div
-          id="photoCarousel" 
-          className="carousel slide" 
-          data-ride="carousel"
-        >
+      <Modal.Body>
+        {" "}
+        {/* className="mx-auto" */}
+        <div id="photoCarousel" className="carousel slide" data-ride="carousel">
           <div className="carousel-inner">
-          {/* {previousItems.length > 0 ? (
+            {/* {previousItems.length > 0 ? (
             previousItems.map(
               (previousItem) => (
                 <div className="carousel-item" key={previousItem.slideNumber}>
@@ -72,7 +76,7 @@ const PhotoDetailDialog = ({
                 </div> // carousel-item
               ))
           ) : null}  */}
-          {/* previousItems.map */}
+            {/* previousItems.map */}
             <div className="carousel-item active">
               <div className="container-fluid">
                 <Image
@@ -80,20 +84,23 @@ const PhotoDetailDialog = ({
                   fileName={imageFileName}
                   alt={imageAlt || header || subheader}
                 />
-                  <div>
-                    <p className="photoCaption">Photo courtesy&nbsp;
-                      <a 
-                        href="https://anaisabelphotography.com/"
-                        className="countdownLinks"
-                        target="_blank"
-                        rel="noreferrer"
-                        >
-                        Ana Isabel Photography
-                      </a>
-                    </p>
-                  </div>
-              </div> {/* container */}
-            </div> {/* carousel-item active */}
+                <div>
+                  <p className="photoCaption">
+                    Photo courtesy&nbsp;
+                    <a
+                      href="https://anaisabelphotography.com/"
+                      className="countdownLinks"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      Yet to decide
+                    </a>
+                  </p>
+                </div>
+              </div>{" "}
+              {/* container */}
+            </div>{" "}
+            {/* carousel-item active */}
             {/* { nextItems.length > 0 ? (
               nextItems.map(
                 (nextItem) => (
@@ -107,9 +114,11 @@ const PhotoDetailDialog = ({
                 ))
               ) : null
             } */}
-             {/* nextItems.map */}
-          </div> {/* carousel-inner */}
-        </div> {/* carousel slide */}
+            {/* nextItems.map */}
+          </div>{" "}
+          {/* carousel-inner */}
+        </div>{" "}
+        {/* carousel slide */}
         {/* <a className="carousel-control-prev" href="#photoCarousel" role="button" data-slide="prev">
           <span className="carousel-control-prev-icon" aria-hidden="true" />
           <span className="sr-only">Previous</span>
@@ -153,7 +162,5 @@ PhotoDetailDialog.defaultProps = {
   photos: null,
   highlights: null,
 };
-
-
 
 export default PhotoDetailDialog;

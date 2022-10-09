@@ -86,7 +86,7 @@ const Ceremony = ({ className, frontmatter }) => {
               target="_blank"
               rel="noreferrer"
             >
-              Ana Isabel Photography
+              Yet to decide
             </a>
             !
           </p>
@@ -146,7 +146,8 @@ const Ceremony = ({ className, frontmatter }) => {
                     target="_blank"
                     rel="noreferrer"
                   >
-                  Kachore Lawns, Plot no.1, Beltarodi Road, Opposite Amar Sanjay Housing Society Layout, Manish Nagar, Somalwada, Nagpur, Maharashtra 440025
+                    Kachore Lawns, Plot no.1, Beltarodi Road, Opposite Amar Sanjay Housing Society
+                    Layout, Manish Nagar, Somalwada, Nagpur, Maharashtra 440025
                   </a>
                 </p>{" "}
                 {/* singleVendor */}
@@ -167,7 +168,7 @@ const Ceremony = ({ className, frontmatter }) => {
                     target="_blank"
                     rel="noreferrer"
                   >
-                  Family
+                    Family
                   </a>
                 </p>{" "}
                 {/* singleVendor */}
@@ -179,7 +180,7 @@ const Ceremony = ({ className, frontmatter }) => {
                     target="_blank"
                     rel="noreferrer"
                   >
-                    Ana Isabel Photography
+                    Yet to decide
                   </a>
                 </p>{" "}
                 {/* singleVendor */}
