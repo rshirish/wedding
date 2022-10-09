@@ -24,7 +24,7 @@ const Top = ({ frontmatter }) => {
         className="individButtonWrapper"
       >
         <Button size="xl" variant="primary" className="text-uppercase main-button hero-button">
-          <p className="buttonTitle">Engagement invitation</p>
+          <p className="buttonTitle">Watch the Ceremony</p>
         </Button>
       </a>
       <div className="individButtonWrapper">
