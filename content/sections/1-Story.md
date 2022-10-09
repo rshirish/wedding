@@ -20,7 +20,7 @@ PS: We still remember both of us receiving a call from home at the same time. Th
     imageFileName: "story/shiansa.jpg",
     header: "Sept. 20, 2022",
     subheader: "First conversation post-date finalisation",
-    content: "Sometimes, things in an arranged marriage move too fast and in such an appealing way that we barely realize what is happening. By the time we had our first conversation on personal numbers, we were already hitched. The first question that we had for each other - What made you say 'Yes!' to me? We were just speechless. And we moved on with a faith - he who has led us so far will guide us further."
+    content: "Sometimes, things in an arranged marriage move too fast and in such an appealing way that we barely realize what is happening. By the time we had our first conversation on personal numbers, we were already hitched. The first question that we had for each other - What made you say 'Yes!' to me? We were just speechless. And we moved ahead with a faith - he who has led us so far will guide us further."
   },
   {
     imageFileName: "story/shiansa.jpg",
