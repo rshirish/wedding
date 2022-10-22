@@ -32,13 +32,15 @@ PS: We still remember both of us receiving a call from home at the same time. Th
     imageFileName: "story/shiansa-04.JPG",
     header: "Oct. 14, 2022",
     subheader: "Engagement shopping",
-    content: "To be continued...."
+    content: "Engagement rings are the most desired handcuffs in the world, and gems make them special as they are important for expressing love, gratitude, and significance. We had no idea when and what are we going to wear. The only thing we knew was that someday we were supposed to wear it. Once we tried it on, well... we nodded to each other. The rings claimed us."
   },
   {
     imageFileName: "story/shiansa-05.JPG",
     header: "Oct. 16, 2022",
     subheader: "Date with the bae",
-    content: "To be continued...."
+    content: "First date always has a special place in our heart. I still can't get over the excitement in her talk, the amusement in her act and the gold of her laughter. I had not missed a single one of her gestures, not one of the indications of her character. 
+    I would simply say this - She is worth millions of compliments and I will spend my entire life telling her how wonderful and stunning she is.
+    Cheers to the great moment, unforgettable memory."
   },
   {
     imageFileName: "story/9.jpg",
