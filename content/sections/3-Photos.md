@@ -4,9 +4,24 @@ header: "Photographs"
 subheader: "All photographs provided by Ana Isabel Photography"
 highlights: [
   {
-    imageFileName: "photos/00-highlights/comingsoon.jpg",
-    imageFileNameDetail: "photos/00-highlights/comingsoon.jpg",
+    imageFileName: "photos/00-highlights/shiansa-01.jpg",
+    imageFileNameDetail: "photos/00-highlights/shiansa-01.jpg",
     slideNumber: "1",
+  },
+  {
+    imageFileName: "photos/00-highlights/shiansa-02.jpg",
+    imageFileNameDetail: "photos/00-highlights/shiansa-02.jpg",
+    slideNumber: "2",
+  },
+  {
+    imageFileName: "photos/00-highlights/shiansa-03.jpg",
+    imageFileNameDetail: "photos/00-highlights/shiansa-03.jpg",
+    slideNumber: "3",
+  },
+  {
+    imageFileName: "photos/00-highlights/shiansa-04.jpg",
+    imageFileNameDetail: "photos/00-highlights/shiansa-04.jpg",
+    slideNumber: "4",
   },
 ]
 gettingReady: [
